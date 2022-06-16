@@ -1,0 +1,17 @@
+C:\Users\SG\source\repos\UrunYonetim\BL\bin\Debug\BL.dll.config
+C:\Users\SG\source\repos\UrunYonetim\BL\bin\Debug\BL.dll
+C:\Users\SG\source\repos\UrunYonetim\BL\bin\Debug\BL.pdb
+C:\Users\SG\source\repos\UrunYonetim\BL\bin\Debug\DAL.dll
+C:\Users\SG\source\repos\UrunYonetim\BL\bin\Debug\Entities.dll
+C:\Users\SG\source\repos\UrunYonetim\BL\bin\Debug\EntityFramework.dll
+C:\Users\SG\source\repos\UrunYonetim\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SG\source\repos\UrunYonetim\BL\bin\Debug\DAL.pdb
+C:\Users\SG\source\repos\UrunYonetim\BL\bin\Debug\DAL.dll.config
+C:\Users\SG\source\repos\UrunYonetim\BL\bin\Debug\Entities.pdb
+C:\Users\SG\source\repos\UrunYonetim\BL\bin\Debug\EntityFramework.xml
+C:\Users\SG\source\repos\UrunYonetim\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SG\source\repos\UrunYonetim\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\SG\source\repos\UrunYonetim\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\SG\source\repos\UrunYonetim\BL\obj\Debug\BL.dll
+C:\Users\SG\source\repos\UrunYonetim\BL\obj\Debug\BL.pdb
+C:\Users\SG\source\repos\UrunYonetim\BL\obj\Debug\BL.csprojAssemblyReference.cache
